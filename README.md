@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Backend Development or App Development projects
 - 🤔 I’m looking for help getting started with Reinforcement Learning
 - 💬 Ask me about Backend Development or App Development
-- ⚽️ I like playing football and listening to Music
+- ⚽️ I like playing football and listening to music
 - 📫 How to reach me:
 
 [1]: https://twitter.com/sherwyn_me
