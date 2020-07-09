@@ -2,7 +2,7 @@
 
 ## My name is Sherwyn D'souza
 
-- 🔭 I’m currently working on Backend Development in Node.js/Flask and App Development in Android/Flutter
+- 🔭 I’m currently working on Backend Development in Node.js and App Development in Flutter
 - 🌱 I’m currently learning AI, Deep Learning and Blockchain
 - 👯 I’m looking to collaborate on Backend Development or App Development projects
 - 🤔 I’m looking for help getting started with Reinforcement Learning
