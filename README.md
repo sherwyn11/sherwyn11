@@ -19,6 +19,6 @@
 
  [![twitter](https://img.icons8.com/doodle/48/000000/twitter-circled.png)][1]
  [![linkedin](https://img.icons8.com/doodle/48/000000/linkedin-circled.png)][2]
- [![link](https://img.icons8.com/doodle/48/000000/link--v1.png)][3]
+ [![website](https://img.icons8.com/dusk/48/000000/domain.png)][3]
  [![medium](https://img.icons8.com/color/48/000000/medium-monogram.png)][4]
- [![dev](https://img.icons8.com/ios-filled/50/000000/devpost.png)][5]
+ [![dev](https://img.icons8.com/ios-filled/48/000000/devpost.png)][5]
