@@ -1,4 +1,4 @@
-![](hi.gif)
+![](https://thumbs.gfycat.com/FatherlyVastAlbertosaurus-size_restricted.gif)
 
 ## My name is Sherwyn D'souza
 
