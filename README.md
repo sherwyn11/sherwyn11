@@ -2,7 +2,7 @@
 
 ## My name is Sherwyn D'souza
 
-- 🙎🏾‍♂️ I'm a Full Stack Web Developer and App Developer
+- 🙎🏾‍♂️ I'm a Full Stack Developer and App Developer
 - 🔭 I’m currently working on Backend Development in Node.js and App Development in Flutter
 - 🌱 I’m currently learning AI, Deep Learning and Blockchain
 - 👯 I’m looking to collaborate on Backend Development or App Development projects
