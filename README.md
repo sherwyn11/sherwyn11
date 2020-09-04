@@ -13,6 +13,7 @@
 
 [1]: https://twitter.com/sherwyn_me
 [2]: https://www.linkedin.com/in/sherwyn-d-souza-907441182/
+[3]: https://sherwyndsouza.live/
 [4]: https://medium.com/@sherwyndsouza1999
 [5]: https://dev.to/sherwyn11
 
