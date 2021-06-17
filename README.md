@@ -34,8 +34,8 @@
 ## 📊 Github stats
 <p align="center">
 <a href="https://github.com/sherwyn11/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sherwyn11's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sherwyn11&theme=tokyonight&hide_border=true" height="192px" width="950px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sherwyn11's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sherwyn11&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sherwyn11's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherwyn11&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&card_width=400px" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sherwyn11's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sherwyn11&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sherwyn11's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherwyn11&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
  </p>
  
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sherwyn11's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sherwyn11&theme=redical&hide_border=true" /></a>
