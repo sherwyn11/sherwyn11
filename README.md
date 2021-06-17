@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sherwyn D'souza</h1>
+<h1 align="center">Hi, I'm Sherwyn D'souza  👋</h1>
 <h3 align="center"><img src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif"/></h3>
-<h3 align="center">I'm a Full Stack Developer and App Developer with interests in Blockchain and AI</h3>
+<h3 align="center">I'm a Full Stack Developer and App Developer with a keen interest in Blockchain and AI</h3>
 
 - 🔭 I’m currently working on **A Medical Supply Chain using Blockchain and AI**
 - 🌱 I’m currently learning **Blockchain(Ethereum), ReactJS, Node.js, Flutter**
