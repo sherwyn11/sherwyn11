@@ -2,11 +2,10 @@
 <h3 align="center"><img src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif"/></h3>
 <h3 align="center">I'm a Full Stack Developer and App Developer with a keen interest in Blockchain and AI</h3>
 
-- 🔭 I’m currently working on **A Medical Supply Chain using Blockchain and AI**
-- 🌱 I’m currently learning **Blockchain(Ethereum), ReactJS, Node.js, Flutter**
+- 🌱 I’m currently learning **Blockchain(Ethereum), ReactJS, Node.js, Flutter, Spring Boot**
 - 👯 I’m looking to collaborate on **Any Backend development or App Development projects**
 - 🤝 I’m looking for help with **Getting started with Reinforcement Learning**
-- 💬 Ask me about **Node.js, ReactJS, Flask, Flutter, Android App Development**
+- 💬 Ask me about **Node.js, ReactJS, Flask, Flutter, Android App Development, Blockchain**
 - ⚡ Fun fact **I like listening to music and playing video games**
 <br/>
 
