@@ -39,5 +39,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sherwyn11's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sherwyn11&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sherwyn11's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherwyn11&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
  </p>
- 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sherwyn11's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sherwyn11&theme=redical&hide_border=true" /></a>
