@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://github.com/sherwyn11"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=Github&logoColor=white"/></a>
   <a href="https://youtube.com/channel/UC_nYonGfgHIZ7gr6oUFR8DA"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://twitter.com/sherwyn_me"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/_sherwyndsouza_"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://discord.gg/sherwyn11" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/badge/-Discord-777777?style=for-the-badge&logoColor=white&logo=discord"/></a>
   <a href="https://dev.to/sherwyn11"><img alt="Dev.to" title="sherwyn11 Dev.to" src="https://img.shields.io/badge/DEV.TO-000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
