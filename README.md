@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/-Discord-777777?style=for-the-badge&logoColor=white&logo=discord"/></a>
   <a href="https://dev.to/sherwyn11"><img alt="Dev.to" title="sherwyn11 Dev.to" src="https://img.shields.io/badge/DEV.TO-000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://sherwyn11.github.io"><img alt="Website" title="My Website" src="https://img.shields.io/badge/website-5865F2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sherwyn-d-souza-907441182/"><img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sherwyn-dsouza/"><img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@sherwyndsouza1999"><img alt="Medium" title="Medium" src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
